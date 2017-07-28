@@ -12,7 +12,6 @@
  *  在main中創建實體hello
  *  呼叫自己的sayhello方法
  */
-
 /**
  * @author user
  *
